@@ -1,0 +1,36 @@
+
+ Life.Church Worship
+|======================================|
+| Run Run Rudolph                 - C  |
+|======================================|
+| Angels We Have Heard On High    - C  |
+| Emmanuel                        - C  |
+| Who You Say I Am                - F# |
+| The Artist                      - F# |
+|======================================|
+| When I Say Jesus                - A  |
+|======================================|
+                                   @YKN
+
+RUN RUN RUDOLPH
+===============
+
+Intro:
+	    1 5 1 1
+
+Verse:
+	    4 4 1 1
+	    5 5 1 1
+
+Chorus:
+	||: 1 4 1 1
+	    4 4 1 1
+	    5 5 1 1 :||
+	
+
+Solo:
+	    1 1 1 1
+	    4 4 1 1
+	    5 5 1 5
+
+Chorus
