@@ -1,9 +1,9 @@
 
  Life.Church Worship
 |======================================|
-| Echo                            - E  |
-| To God Be The Glory             - A  |
+| Echo                            - F# |
+| To God Be The Glory             - C  |
 | Won The War                     - B  |
-| God So Good                     - B  |
+| God So Good                     - A  |
 |======================================|
                                    @EDM
