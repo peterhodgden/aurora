@@ -241,7 +241,7 @@
                 0.2
             </Value>
             <Value property="Filter Freq"  type="number" >
-                0.5156
+                0.5624
             </Value>
             <Value property="Filter Reso"  type="number" >
                 0
@@ -256,7 +256,7 @@
                 0
             </Value>
             <Value property="Master Volume"  type="number" >
-                0.7
+                0.3875
             </Value>
             <Value property="Amp Gain"  type="number" >
                 0.8
@@ -277,7 +277,7 @@
                 1
             </Value>
             <Value property="Amp Release"  type="number" >
-                0.0999999
+                0.18
             </Value>
             <Value property="Env 1 Rate"  type="number" >
                 0.5
